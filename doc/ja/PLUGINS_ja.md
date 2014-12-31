@@ -1,4 +1,4 @@
-<div style="text-align: right;">[English](../PLUGINS.md)</div>
+[English](../PLUGINS.md)
 
 # Leiningen プラグイン
 

@@ -1,4 +1,4 @@
-<div style="text-align: right;">[Japanese](ja/PLUGINS_ja.md)</div>
+[Japanese](ja/PLUGINS_ja.md)
 
 # Leiningen Plugins
 
