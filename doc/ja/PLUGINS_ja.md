@@ -1,3 +1,5 @@
+<div style="text-align: right;">[English](../PLUGINS.md)</div>
+
 # Leiningen プラグイン
 
 Leiningenのタスクはleiningen.$TASK名前空間にある$TASKという名前の関数に過ぎません。ですから、Leiningenのプラグインを記述するのは、単にそのような関数を含むプロジェクトを作るだけのことで、下記の内容の多くは、Leiningenそのものに含まれているタスクにも同様に当てはまります。
